@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://singingtotigers.github.io/gh-pages/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://singingtotigers.github.io/gh-pages/</loc>
+</url>
+<url>
+<loc>https://singingtotigers.github.io/gh-pages/contact-me/</loc>
+<lastmod>2022-12-29T19:06:02+00:00</lastmod>
+</url>
+<url>
+<loc>https://singingtotigers.github.io/gh-pages/hi-im-ana/</loc>
+<lastmod>2022-12-29T19:12:57+00:00</lastmod>
+</url>
+<url>
+<loc>https://singingtotigers.github.io/gh-pages/stories/</loc>
+<lastmod>2022-12-29T19:06:51+00:00</lastmod>
+</url>
+<url>
+<loc>https://singingtotigers.github.io/gh-pages/talks-and-panels/</loc>
+<lastmod>2022-12-29T19:06:27+00:00</lastmod>
+</url>
+</urlset>
