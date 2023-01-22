@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://singingtotigers.github.io/gh-pages/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://singingtotigers.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://singingtotigers.github.io/gh-pages/</loc>
+<loc>https://singingtotigers.com/</loc>
 </url>
 <url>
-<loc>https://singingtotigers.github.io/gh-pages/about-ana/</loc>
+<loc>https://singingtotigers.com/about-ana/</loc>
 <lastmod>2023-01-01T22:57:30+00:00</lastmod>
 <image:image>
-<image:loc>https://singingtotigers.github.io/gh-pages/media/posts/17/ana-2014-hi-res.jpg</image:loc>
+<image:loc>https://singingtotigers.com/media/posts/17/ana-2014-hi-res.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://singingtotigers.github.io/gh-pages/against-the-time-beasts/</loc>
+<loc>https://singingtotigers.com/against-the-time-beasts/</loc>
 <lastmod>2023-01-22T20:27:54+00:00</lastmod>
 <image:image>
-<image:loc>https://singingtotigers.github.io/gh-pages/media/posts/11/illustration-202212-against-the-time-beasts.png</image:loc>
+<image:loc>https://singingtotigers.com/media/posts/11/illustration-202212-against-the-time-beasts.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://singingtotigers.github.io/gh-pages/contact-me/</loc>
+<loc>https://singingtotigers.com/contact-me/</loc>
 <lastmod>2023-01-22T20:32:33+00:00</lastmod>
 </url>
 <url>
-<loc>https://singingtotigers.github.io/gh-pages/dandelion-brew/</loc>
+<loc>https://singingtotigers.com/dandelion-brew/</loc>
 <lastmod>2023-01-22T20:25:00+00:00</lastmod>
 <image:image>
-<image:loc>https://singingtotigers.github.io/gh-pages/media/posts/12/Dandelion-Brew-Tangent.jpg</image:loc>
+<image:loc>https://singingtotigers.com/media/posts/12/Dandelion-Brew-Tangent.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://singingtotigers.github.io/gh-pages/la-bibliotheque-d-objets-quotidiens/</loc>
+<loc>https://singingtotigers.com/la-bibliotheque-d-objets-quotidiens/</loc>
 <lastmod>2023-01-22T20:48:04+00:00</lastmod>
 <image:image>
-<image:loc>https://singingtotigers.github.io/gh-pages/media/posts/10/cover-202212-librarian.jpg</image:loc>
+<image:loc>https://singingtotigers.com/media/posts/10/cover-202212-librarian.jpg</image:loc>
 <image:title><![CDATA[The Librarian (standard cover)]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://singingtotigers.github.io/gh-pages/media/posts/10/cover-202212-The-Librarian-2.jpeg</image:loc>
+<image:loc>https://singingtotigers.com/media/posts/10/cover-202212-The-Librarian-2.jpeg</image:loc>
 <image:title><![CDATA[The Librarian (standard cover)]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://singingtotigers.github.io/gh-pages/rabbit-in-the-moon/</loc>
+<loc>https://singingtotigers.com/rabbit-in-the-moon/</loc>
 <lastmod>2023-01-22T20:53:32+00:00</lastmod>
 <image:image>
-<image:loc>https://singingtotigers.github.io/gh-pages/media/posts/14/cover-2021-ttt-sq.jpeg</image:loc>
+<image:loc>https://singingtotigers.com/media/posts/14/cover-2021-ttt-sq.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
