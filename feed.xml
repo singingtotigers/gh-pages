@@ -3,7 +3,7 @@
     <title>Singing to Tigers</title>
     <link href="https://singingtotigers.com/feed.xml" rel="self" />
     <link href="https://singingtotigers.com" />
-    <updated>2023-01-22T20:53:32+00:00</updated>
+    <updated>2023-03-08T18:40:46+00:00</updated>
     <author>
         <name>Ana Sun</name>
     </author>
@@ -61,7 +61,7 @@
         <media:content url="https://singingtotigers.com/media/posts/10/cover-202212-librarian.jpg" medium="image" />
             <category term="Stories"/>
 
-        <updated>2023-01-22T20:48:04+00:00</updated>
+        <updated>2023-03-08T18:40:46+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://singingtotigers.com/media/posts/10/cover-202212-librarian.jpg" alt="The Librarian (standard cover)" />
@@ -79,7 +79,7 @@
 <figure class="post__image post__image--center" ><figure class="post__image post__image--center"><img loading="lazy"  src="https://singingtotigers.com/media/posts/10/cover-202212-The-Librarian-2.jpeg" alt="The Librarian (standard cover)" width="500" height="749" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://singingtotigers.com/media/posts/10/responsive/cover-202212-The-Librarian-2-xs.jpeg 384w ,https://singingtotigers.com/media/posts/10/responsive/cover-202212-The-Librarian-2-sm.jpeg 600w ,https://singingtotigers.com/media/posts/10/responsive/cover-202212-The-Librarian-2-md.jpeg 768w ,https://singingtotigers.com/media/posts/10/responsive/cover-202212-The-Librarian-2-lg.jpeg 1200w ,https://singingtotigers.com/media/posts/10/responsive/cover-202212-The-Librarian-2-xl.jpeg 1600w"></figure>
 <figcaption >"The Librarian" (Standard Book Cover) by Todd Sanders</figcaption>
 </figure>
-<p class="align-right"><a href="aanpress.com/aanorder.html#TL" title="Order 'The Librarian' from Air &amp; Nothingness Press" class="btn--white btn">Order the book → </a></p>
+<p class="align-right"><a href="https://aanpress.com/aanorder.html#TL" title="Order 'The Librarian' from Air &amp; Nothingness Press">Order the book → </a></p>
 <p> </p>
             ]]>
         </content>
